@@ -1,0 +1,21 @@
+.recipe-instructions {
+    background-color: rgb(197, 197, 197);
+    padding: 4px;
+}
+
+.intro-text{
+    font-style: italic;
+}
+
+.gallery{
+    display: inline-flex;
+    border: solid 5px white;
+}
+
+img {
+    width: 50%;
+}
+
+.link-tree{
+    display: flex;
+}
